@@ -14,10 +14,6 @@ High-Tech Ace is a single-player card game developed using HTML, CSS, and JavaSc
 2. Clone the repository.
 3. Open the `index.html` file in a web browser.
 
-OR
-
-Just [click on this link](https://eleoxda.github.io/Ace_Hunter_JS/) to play the game
-
 ## How to Play
 
 1. Click the "Play Game" button to start a new game.
