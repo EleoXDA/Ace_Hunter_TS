@@ -2,11 +2,11 @@
 
 ![image](https://github.com/EleoXDA/Ace_Hunter_JS/assets/27622683/f6b61c2d-3287-4b8d-96c3-dd84bb5ffec7)
 
-Welcome to Ace Hunter, a JavaScript card game. The objective of the game is to find the Ace of Spades card among four cards, which are randomly shuffled each round.
+Welcome to Ace Hunter, a JavaScript card game using Typescript. The objective of the game is to find the Ace of Spades card among four cards, which are randomly shuffled each round.
 
 ## Description
 
-High-Tech Ace is a single-player card game developed using HTML, CSS, and JavaScript. The game consists of multiple rounds. In each round, the player chooses a card. If the player selects the Ace of Spades, their score increases, and they proceed to the next round. The game ends after a predetermined number of rounds or can be resumed later if left incomplete.
+High-Tech Ace is a single-player card game developed using HTML, CSS, and JavaScript through Typescript. The game consists of multiple rounds. In each round, the player chooses a card. If the player selects the Ace of Spades, their score increases, and they proceed to the next round. The game ends after a predetermined number of rounds or can be resumed later if left incomplete.
 
 ## Setup
 
